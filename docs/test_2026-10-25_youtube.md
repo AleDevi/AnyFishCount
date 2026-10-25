@@ -16,7 +16,7 @@ Run offline on Ale's PC (CPU, Ryzen 5 3500U, no NVIDIA GPU). Videos stayed on th
 | 2x2 tiles (20% overlap, NMS IoU 0.5) | 3.98 |
 | 3x3 tiles | 8.74 |
 
-## Counts at conf 0.25 (median of the 4 stills)
+## Counts per video at conf 0.25 (summary of the 4 stills)
 
 | Video | by eye | 640 | 1280 | 2x2 | 3x3 |
 | --- | --- | --- | --- | --- | --- |
